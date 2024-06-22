@@ -1,1 +1,1 @@
-# Brain-tumor(demo project)
+# Brain-tumor(demo)
